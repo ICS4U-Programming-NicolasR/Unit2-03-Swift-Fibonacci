@@ -1,0 +1,4 @@
+The fibonacci at the 0th term is 0
+The fibonacci at the 1th term is 1
+The fibonacci at the 5th term is 5
+The fibonacci at the 8th term is 21
